@@ -1,14 +1,21 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Shalvi Saxena</h1>
 
-<h2 align="center"> My Social Media : </h2>
-<br>
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Shalvi-Saxena)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shalvisaxena/)
-[![Email](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:shalvi.saxena97@live.com)
-
+<h2 align="center"> My Social Media :
+<p align="center">
+ <div align="center">
+    <a style="margin-left: 10px;"  target="_blank" href="https://github.com/Shalvi-Saxena">
+      <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white">
+    </a>
+    <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/shalvisaxena/">
+      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white">
+    </a>
+    <a style="margin-left: 10px;"  target="_blank" href="mailto:shalvi.saxena97@live.com">
+      <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white">
+    </a>
+ </div>
+</p>
 
 ## About Me :
-
 <br>
 
 Hey!
@@ -25,8 +32,7 @@ I enjoy learning about new technology stacks. I'm currently exploring machine le
 
 <br>
 
-## What I am Good at 🧑‍💻 :
-
+<!-- ## What I am Good at 🧑‍💻 :
 <br>
 
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
@@ -37,14 +43,14 @@ I enjoy learning about new technology stacks. I'm currently exploring machine le
 
 <img src="https://img.icons8.com/color/48/000000/npm.png"/>
 
-<br>
+<br> -->
 
 
 ## GitHub Stats 📈 :
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shalvi-Saxena&theme=algolia&hide_longest_streak=true&hide_current_streak=true)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shalvi-Saxena&theme=algolia&hide_longest_streak=true&hide_current_streak=true)](https://git.io/streak-stats) -->
 [![Shalvi-Saxena GitHub stats](https://github-readme-stats.vercel.app/api?username=Shalvi-Saxena&theme=algolia)](https://github-readme-stats.vercel.app/api?username=Shalvi-Saxena&theme=algolia)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shalvi-Saxena&theme=algolia)](https://github.com/Shalvi-Saxena/github-readme-stats)
 
