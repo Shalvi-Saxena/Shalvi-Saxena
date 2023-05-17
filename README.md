@@ -56,10 +56,10 @@ I enjoy learning about new technology stacks. I'm currently exploring machine le
 
 <br>
 
-## GitHub Thropies 🏆 :
+<!-- ## GitHub Thropies 🏆 :
 
 <br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shalvi-Saxena)](https://github.com/Shalvi-Saxena/github-profile-trophy)
 
-<br>
+<br> -->
