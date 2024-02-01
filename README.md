@@ -51,7 +51,7 @@ I enjoy learning about new technology stacks. I'm currently exploring machine le
 <br>
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shalvi-Saxena&theme=algolia&hide_longest_streak=true&hide_current_streak=true)](https://git.io/streak-stats) -->
-[![Shalvi-Saxena GitHub stats](https://github-readme-stats.vercel.app/api?username=Shalvi-Saxena&theme=algolia)](https://github-readme-stats.vercel.app/api?username=Shalvi-Saxena&theme=algolia)
+<!-- [![Shalvi-Saxena GitHub stats](https://github-readme-stats.vercel.app/api?username=Shalvi-Saxena&theme=algolia)](https://github-readme-stats.vercel.app/api?username=Shalvi-Saxena&theme=algolia) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shalvi-Saxena&theme=algolia)](https://github.com/Shalvi-Saxena/github-readme-stats)
 
 <br>
